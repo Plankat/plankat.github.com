@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 Hello and Welcome~~~
-
+(C:\Users\Plank\Desktop\1)
 [editor on GitHub](https://github.com/Plankat/plankat.github.com/edit/master/README.md)
 
 [Jekyll](https://jekyllrb.com/)
@@ -15,26 +15,19 @@ Some importnt dates
 -6.13  2-4
 -6.15  2-4
 -6.17
--_6.28_
+-6.28
 -7.02
 
 ```
+This week's task
 
-Syntax highlighted code block
+```
+1.Fantaisie Impromptu
+2.Nocturnes
+3.Waltz
+4.Preludes
+5.Chaconne
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -43,7 +36,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 DIY a _heartbeat monitor_
 
-**Example**: [Link](https://www.youtube.com/watch?v=1b6AIaV0jck)
+**Example**: [Youtube Video](https://www.youtube.com/watch?v=1b6AIaV0jck)
 
 ### Support or Contact
 
