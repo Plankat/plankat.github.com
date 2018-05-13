@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Plankat's Page
 
 Hello and Welcome~~~
 [](C:\Users\Plank\Desktop\1.jpg)
@@ -7,7 +7,7 @@ Hello and Welcome~~~
 
 [Jekyll](https://jekyllrb.com/)
 
-### Markdown
+### Reminder
 
 Some importnt dates
 
