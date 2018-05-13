@@ -1,14 +1,25 @@
 ## Welcome to GitHub Pages
 
 Hello and Welcome~~~
+
 [editor on GitHub](https://github.com/Plankat/plankat.github.com/edit/master/README.md)
+
 [Jekyll](https://jekyllrb.com/)
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Some importnt dates
 
-```markdown
+```
+-6.11  2-4
+-6.13  2-4
+-6.15  2-4
+-6.17
+-_6.28_
+-7.02
+
+```
+
 Syntax highlighted code block
 
 # Header 1
@@ -28,9 +39,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Summer Project
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Plankat/plankat.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+DIY a _heartbeat monitor_
+
+**Example**: [Link](https://www.youtube.com/watch?v=1b6AIaV0jck)
 
 ### Support or Contact
 
