@@ -1,7 +1,8 @@
 ## Welcome to GitHub Pages
 
 Hello and Welcome~~~
-(C:\Users\Plank\Desktop\1)
+[](C:\Users\Plank\Desktop\1)
+
 [editor on GitHub](https://github.com/Plankat/plankat.github.com/edit/master/README.md)
 
 [Jekyll](https://jekyllrb.com/)
