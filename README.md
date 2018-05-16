@@ -11,7 +11,6 @@ Hello and Welcome~~~
 
 Some importnt dates
 
-```
 > -6.11  2-4
 > -6.13  2-4
 > -6.15  2-4
@@ -19,7 +18,7 @@ Some importnt dates
 > -6.28
 > -7.02
 
-```
+
 This week's task
 
 ```
@@ -38,6 +37,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 DIY a _heartbeat monitor_
 
 **Example**: [Youtube Video](https://www.youtube.com/watch?v=1b6AIaV0jck)
+
 ||Frequency|R|C|
 |-----|:----------:|-----:|------:|
 |High pass|--|--|--|
