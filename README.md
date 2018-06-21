@@ -1,12 +1,12 @@
 ## Welcome to Imperial Department of Physics!!!
 
-Hi, welcome to Blackett Laboratory!! This is the website of our summer project,
+Hi, welcome to Blackett Laboratory!! 
+
+This is the website of our summer project,
 
 **DIY Heartbeat Monitor**
 
-[editor on GitHub](https://github.com/Plankat/heartbeat.github.com/edit/master/index.md) 
 
-[Jekyll](https://jekyllrb.com/) 
 
 ### Introduction
 
@@ -24,16 +24,16 @@ We used an infrared light as the light source, the light will penetrate the fing
 
 
 -Circuit Diagram
-![.](C:\Users\Plank\Desktop\Lab3\2.png)
+![.](http://chuantu.biz/t6/331/1529444587x-1566679905.png)
 
--Practical Circuit
-![.](C:\Users\Plank\Desktop\Lab3\5.png)
+
 
 
 -Sample Pulse Oscillograph
-![.](C:\Users\Plank\Desktop\Lab3\3.png)
-![.](C:\Users\Plank\Desktop\Lab3\4.png)
+![.](http://chuantu.biz/t6/331/1529444904x-1566679905.png)
+![.](http://chuantu.biz/t6/331/1529444946x-1566679905.png)
 
+(sample provided by Bingxin Li)
 
 
 
@@ -61,8 +61,10 @@ A peak detector is a series connection of diode and capacitor outputting a DC vo
 
 5. Comparator
 A comparator is a device that compares two input digital or analog signals and output a signal indicating which is larger. 
-![Fig 1](https://en.wikipedia.org/wiki/Comparator#/media/File:Opamp105.gif)
-When Vin>Vref ,Vout=high. When Vin<Vref, Vout=low 
+
+  ![Fig 1](http://chuantu.biz/t6/331/1529444456x-1566680499.gif)
+
+  When Vin>Vref ,Vout=high. When Vin<Vref, Vout=low. 
 
 6. Microcontroller
 A microcontroller is a complicated integrated circuit which is used in automatically controlled devices such as remote controls. A microcontroller contains one or more CPUs (processor cores) along with memory and programmable input/output peripherals. In this project, we use Arduino Uno.   
@@ -71,5 +73,8 @@ A microcontroller is a complicated integrated circuit which is used in automatic
 Liquid-crystal display, often know as LCD, is a flat-panel display or other electronically modulated optical device that uses the light-modulating properties of liquid crystals. Liquid crystals do not emit light directly, instead using a backlight or reflector to produce images in color or monochrome.
 
 
+### ...
 
+[editor on GitHub](https://github.com/Plankat/plankat.github.com/edit/master/README.md) 
 
+[Jekyll](https://jekyllrb.com/) 
