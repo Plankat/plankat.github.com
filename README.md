@@ -75,6 +75,6 @@ Liquid-crystal display, often know as LCD, is a flat-panel display or other elec
 
 ### ...
 
-[editor on GitHub](https://github.com/Plankat/plankat.github.com/edit/master/README.md) 
+[editor](https://github.com/Plankat/plankat.github.com/edit/master/README.md) 
 
 [Jekyll](https://jekyllrb.com/) 
