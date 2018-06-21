@@ -6,7 +6,7 @@ This is the website of our summer project,
 
 **DIY Heartbeat Monitor**
 
-
+- [Youtube Video](https://www.youtube.com/watch?v=1b6AIaV0jck) 
 
 ### Introduction
 
@@ -23,13 +23,13 @@ This heart-rate monitor is a simple infrared heartbeat monitor.  By shining an i
 We used an infrared light as the light source, the light will penetrate the finger and reach the photodiode detector on the other side. When heart contracts and pumps blood, the pressure in the arteries will change therefore change the blood density and the diameter of capillaries. Then the reflection of the light causes a change in the intensity of the light received by the photodiode, and subsequently resulted in a change in potential. The signal is then being processed by the circuit and finally show on the oscilloscope. The rate of heartbeat is then counted and shown on the LCD screen. 
 
 
--Circuit Diagram
+- _**Circuit Diagram**_
 ![.](http://chuantu.biz/t6/331/1529444587x-1566679905.png)
 
 
 
 
--Sample Pulse Oscillograph
+- _**Sample Pulse Oscillograph**_
 ![.](http://chuantu.biz/t6/331/1529444904x-1566679905.png)
 ![.](http://chuantu.biz/t6/331/1529444946x-1566679905.png)
 
